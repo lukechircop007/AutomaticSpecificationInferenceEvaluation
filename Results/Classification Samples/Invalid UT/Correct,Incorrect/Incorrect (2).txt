@@ -1,0 +1,100 @@
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isWhitelisted():::EXIT
+return == false -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeNormalUser():::ENTER
+this.type == null -C
+this.sessions == null -I
+this.accounts == null -I
+this.next_session_id == null -I
+this.next_account == null -I
+this.country == null -I
+this.numOfTransactionsWhenGreyListed == null -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.isValidDepositAmount(double):::EXIT
+this.balance == 0.0 -I
+return == false -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.isValidWithdrawalAmount(double):::EXIT
+return == false -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isBlacklisted():::EXIT
+return == false -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.whitelist():::ENTER
+this.status == null -C
+this.type == null  -I
+this.sessions == null  -I
+this.accounts == null  -I
+this.next_session_id == null  -I
+this.next_account == null  -I
+this.country == null  -I
+this.numOfTransactionsWhenGreyListed == null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isNormalUser():::EXIT
+return == false -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.UserAccount(java.lang.Integer, java.lang.String):::EXIT
+this.opened == false -C
+this.balance == 0.0 -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isDisabled():::EXIT
+return == false -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount:::OBJECT
+this.account_number != null -C
+this.owner != null -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo:::OBJECT
+this.maxNumOfAccountRequestsPerSession == 10 -C
+this.sessions[] == [] -I
+this.sessions[].getClass().getName() == [] -I
+this.accounts[] == [] -I
+this.accounts[].getClass().getName() == [] -I
+this.uid != null -C
+this.name != null -C
+this.accountRequestsPerSession != null -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeDisabled():::ENTER
+this.mode == null -C
+this.status == null  -I
+this.type == null  -I
+this.sessions == null  -I
+this.accounts == null  -I
+this.next_session_id == null  -I
+this.next_account == null  -I
+this.country == null  -I
+this.numOfTransactionsWhenGreyListed == null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeDisabled():::EXIT
+this.status == null -I 
+this.type == null  -I
+this.sessions == null  -I
+this.accounts == null  -I
+this.next_session_id == null  -I
+this.next_account == null  -I
+this.country == null  -I
+this.numOfTransactionsWhenGreyListed == null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeNormalUser():::EXIT
+this.sessions == null -I
+this.accounts == null -I
+this.next_session_id == null -I
+this.next_account == null -I
+this.country == null -I
+this.numOfTransactionsWhenGreyListed == null -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.whitelist():::EXIT
+this.type == null  -I
+this.sessions == null  -I
+this.accounts == null  -I
+this.next_session_id == null  -I
+this.next_account == null  -I
+this.country == null  -I
+this.numOfTransactionsWhenGreyListed == null -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.isValidDepositAmount(double):::ENTER
+this.balance == 0.0 -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isGreylisted():::EXIT
+return == false -I

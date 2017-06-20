@@ -1,0 +1,1084 @@
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.getOwner():::EXIT
+this.log has only one value  -I
+return has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isFrozen():::EXIT;condition="return == true"
+this.mode has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeFrozen():::EXIT
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[])  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName())  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getName():::ENTER
+this has only one value  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.log(java.lang.String):::ENTER
+this has only one value  -I
+this.log has only one value  -I
+l has only one value  -I
+l.toString == "output"  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.blacklist():::EXIT
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[])  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName())  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.isSessionClosed():::ENTER
+this.log has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isWhitelisted():::EXIT
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[])  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName())  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.isValidWithdrawalAmount(double):::EXIT
+this.balance == 300.0  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.UserMode(java.lang.String, int):::EXIT
+$hidden$1.toString one of { "ACTIVE", "DISABLED", "FROZEN" }  -I
+$hidden$1.toString == orig($hidden$1.toString)  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.withdraw(double):::ENTER
+this has only one value  -I
+this.balance == 300.0  -I
+amount == 100.0  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.getOwner():::ENTER
+this has only one value  -I
+this.log has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.deposit(double):::ENTER
+this has only one value  -I
+this.balance == 300.0  -I
+amount == 100.0  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.greylist():::ENTER
+this has only one value  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.closeSession():::EXIT
+this.log has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.getOwner():::ENTER
+this has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.UserType(java.lang.String, int):::EXIT
+$hidden$1.toString one of { "GOLD", "NORMAL", "SILVER" }  -I
+$hidden$1.toString == orig($hidden$1.toString)  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.UserStatus(java.lang.String, int):::EXIT
+$hidden$1.toString one of { "BLACKLISTED", "GREYLISTED", "WHITELISTED" }  -I
+$hidden$1.toString == orig($hidden$1.toString)  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isSilverUser():::ENTER
+this has only one value  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo:::OBJECT
+this.uid has only one value  -I
+this.name has only one value  -I
+this.name.toString == "john"  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName() == um.edu.mt.fits.dsp0.user.UserInfo$UserMode[].class  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] contains no nulls and has only one value, of length 3  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo.UserMode, um.edu.mt.fits.dsp0.user.UserInfo.UserMode, um.edu.mt.fits.dsp0.user.UserInfo.UserMode]  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[].getClass().getName() elements == um.edu.mt.fits.dsp0.user.UserInfo.UserMode.class  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName() == um.edu.mt.fits.dsp0.user.UserInfo$UserStatus[].class  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] contains no nulls and has only one value, of length 3  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo.UserStatus, um.edu.mt.fits.dsp0.user.UserInfo.UserStatus, um.edu.mt.fits.dsp0.user.UserInfo.UserStatus]  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[].getClass().getName() elements == um.edu.mt.fits.dsp0.user.UserInfo.UserStatus.class  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName() == um.edu.mt.fits.dsp0.user.UserInfo$UserType[].class  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] contains no nulls and has only one value, of length 3  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo.UserType, um.edu.mt.fits.dsp0.user.UserInfo.UserType, um.edu.mt.fits.dsp0.user.UserInfo.UserType]  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[].getClass().getName() elements == um.edu.mt.fits.dsp0.user.UserInfo.UserType.class  -I
+this.country.toString == "Malta"  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE != null  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED != null  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN != null  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES != null  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] elements != null  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED != null  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED != null  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED != null  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES != null  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] elements != null  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD != null  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER != null  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL != null  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES != null  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] elements != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isFrozen():::ENTER
+this.status has only one value  -I
+this.type has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.UserMode(java.lang.String, int):::ENTER
+$hidden$1.toString one of { "ACTIVE", "DISABLED", "FROZEN" }  -I
+$hidden$2 one of { 0, 1, 2 }  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isGoldUser():::EXIT;condition="not(return == true)"
+this.type has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isBlacklisted():::ENTER
+this has only one value  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.UserInfo(java.lang.Integer, java.lang.String, java.lang.String):::ENTER
+uid has only one value  -I
+name has only one value  -I
+name.toString == "john"  -I
+country has only one value  -I
+country.toString == "Malta"  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.openSession():::EXIT
+this.log has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isActive():::EXIT
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[])  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName())  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isActive():::ENTER
+this has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeActive():::EXIT
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[])  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName())  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeNormalUser():::ENTER
+this.mode has only one value  -I
+this.status has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getName():::EXIT
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[])  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+return has only one value  -I
+return.toString == "john"  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName())  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.getLog():::EXIT
+this.log has only one value  -I
+return has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.activateAccount():::ENTER
+this has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.log(java.lang.String):::EXIT
+this.log has only one value  -I
+this.log.toString == "output\n"  -I
+l.toString == "output"  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isNormalUser():::EXIT
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[])  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName())  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.getOpened():::EXIT;condition="not(return == true)"
+orig(this) has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.closeAccount():::ENTER
+this has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.getOpened():::EXIT;condition="return == true"
+orig(this) has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.isSessionClosed():::EXIT;condition="not(return == true)"
+orig(this) has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getCountry():::EXIT
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[])  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+return has only one value  -I
+return.toString == "Malta"  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName())  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.isValidWithdrawalAmount(double):::ENTER
+this has only one value  -I
+this.balance == 300.0  -I
+amount == 100.0  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.closeSession():::ENTER
+this has only one value  -I
+this.log has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeDisabled():::EXIT
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[].getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[].getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[])  -I
+this.mode has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[]) (elementwise)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[].getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[].getClass().getName()) (elementwise)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName())  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeGoldUser():::ENTER
+this has only one value  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.getBalance():::ENTER
+this.balance one of { 0.0, 300.0 }  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isActive():::EXIT;condition="not(return == true)"
+this.mode has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.getAccountNumber():::ENTER
+this has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeNormalUser():::EXIT
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[].getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[].getClass().getName())  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[]) (elementwise)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[].getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[].getClass().getName()) (elementwise)  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeFrozen():::ENTER
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.getOwner():::EXIT
+return has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getCountry():::ENTER
+this has only one value  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeSilverUser():::ENTER
+this has only one value  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeGoldUser():::EXIT
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[])  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName())  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession:::OBJECT
+this.sid has only one value  -I
+this.log.toString one of { "", "output\n" }  -I
+this.owner has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isBlacklisted():::EXIT
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[])  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName())  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isFrozen():::EXIT
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[])  -I
+(return == false)  ==>  (orig(this) has only one value)  -I
+(return == false)  ==>  (this.accountRequestsPerSession has only one value)  -I
+(return == false)  ==>  (this.accounts has only one value)  -I
+(return == false)  ==>  (this.sessions has only one value)  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName())  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.withdraw(double):::EXIT
+this.balance == 200.0  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.isSessionClosed():::EXIT
+this.log has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getId():::ENTER
+this has only one value  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.whitelist():::ENTER
+this.mode has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.getId():::ENTER
+this has only one value  -I
+this.log has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.isSessionClosed():::EXIT;condition="return == true"
+orig(this) has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.UserAccount(java.lang.Integer, java.lang.String):::EXIT
+anumber.toString == "45678"  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getId():::EXIT
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[])  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+return has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName())  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isGoldUser():::ENTER
+this has only one value  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount:::OBJECT
+this.account_number has only one value  -I
+this.account_number.toString == "45678"  -I
+this.owner has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isSilverUser():::EXIT;condition="not(return == true)"
+this.type has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isFrozen():::EXIT;condition="not(return == true)"
+this.mode has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+orig(this) has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeSilverUser():::EXIT
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[])  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName())  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isActive():::EXIT;condition="return == true"
+this.mode has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isNormalUser():::ENTER
+this has only one value  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isGoldUser():::EXIT
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[])  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName())  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.UserStatus(java.lang.String, int):::ENTER
+$hidden$1.toString one of { "BLACKLISTED", "GREYLISTED", "WHITELISTED" }  -I
+$hidden$2 one of { 0, 1, 2 }  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeUnfrozen():::ENTER
+this has only one value  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isGoldUser():::EXIT;condition="return == true"
+this.type has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.UserSession(java.lang.Integer, java.lang.Integer):::ENTER
+uid has only one value  -I
+sid has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.UserAccount(java.lang.Integer, java.lang.String):::ENTER
+uid has only one value  -I
+anumber has only one value  -I
+anumber.toString == "45678"  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.isValidDepositAmount(double):::ENTER
+this has only one value  -I
+amount == 100.0  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isDisabled():::ENTER
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.greylist():::EXIT
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[])  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName())  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.getAccountNumber():::EXIT
+return has only one value  -I
+return.toString == "45678"  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.deposit(double):::EXIT
+this.balance == 400.0  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isSilverUser():::EXIT
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[])  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName())  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isDisabled():::EXIT
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[])  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName())  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.getBalance():::EXIT
+this.balance one of { 0.0, 300.0 }  -I
+return one of { 0.0, 300.0 }  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.getId():::EXIT
+this.log has only one value  -I
+return has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeActive():::ENTER
+this has only one value  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.blacklist():::ENTER
+this has only one value  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.UserSession(java.lang.Integer, java.lang.Integer):::EXIT
+this.log has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.openSession():::ENTER
+this.log has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.getLog():::ENTER
+this has only one value  -I
+this.log has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeUnfrozen():::EXIT
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[])  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.sessions has only one value  -I
+this.accounts has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+this.accountRequestsPerSession has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName())  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.UserInfo(java.lang.Integer, java.lang.String, java.lang.String):::EXIT
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+this.numOfTransactionsWhenGreyListed has only one value  -I
+name.toString == "john"  -I
+country.toString == "Malta"  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.whitelist():::EXIT
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.ACTIVE)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.DISABLED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.FROZEN)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[])  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.WHITELISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.GREYLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.BLACKLISTED)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[].getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[].getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.GOLD)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.SILVER)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.NORMAL)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[])  -I
+this.mode has only one value  -I
+this.status has only one value  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES.getClass().getName())  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[] == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[]) (elementwise)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[].getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[].getClass().getName()) (elementwise)  -I
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName() == orig(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES.getClass().getName())  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo$UserType.UserType(java.lang.String, int):::ENTER
+$hidden$1.toString one of { "GOLD", "NORMAL", "SILVER" }  -I
+$hidden$2 one of { 0, 1, 2 }  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isWhitelisted():::ENTER
+this.mode has only one value  -I
+this.status has only one value  -I
+this.type has only one value  -I
+this.next_session_id has only one value  -I
+this.next_account has only one value  -I
+this.country has only one value  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isSilverUser():::EXIT;condition="return == true"
+this.type has only one value  -I

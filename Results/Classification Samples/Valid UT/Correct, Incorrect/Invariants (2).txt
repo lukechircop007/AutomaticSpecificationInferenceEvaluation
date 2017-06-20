@@ -1,0 +1,554 @@
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.getOwner():::EXIT
+this.sid == orig(this.sid) -C
+this.log == orig(this.log) -C
+this.owner == orig(this.owner) -C
+this.sessionClosed == orig(this.sessionClosed) -C
+this.log.toString == orig(this.log.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isFrozen():::EXIT;condition="return == true"
+return == true -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeFrozen():::EXIT
+this.uid == orig(this.uid) -C
+this.name == orig(this.name) -C
+this.status == orig(this.status) -C
+this.type == orig(this.type) -C
+this.sessions == orig(this.sessions) -C
+this.sessions[] == orig(this.sessions[]) -C
+this.accounts == orig(this.accounts) -C
+this.accounts[] == orig(this.accounts[]) -C
+this.next_session_id == orig(this.next_session_id) -C
+this.next_account == orig(this.next_account) -C
+this.country == orig(this.country) -C
+this.numOfTransactionsWhenGreyListed == orig(this.numOfTransactionsWhenGreyListed) -C
+this.accountRequestsPerSession == orig(this.accountRequestsPerSession) -C
+this.maxNumOfAccountRequestsPerSession == orig(this.maxNumOfAccountRequestsPerSession) -C
+this.name.toString == orig(this.name.toString) -C
+this.country.toString == orig(this.country.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.blacklist():::EXIT
+this.uid == orig(this.uid) -C
+this.name == orig(this.name) -C
+this.mode == orig(this.mode) -C
+this.type == orig(this.type) -C
+this.sessions == orig(this.sessions) -C
+this.sessions[] == orig(this.sessions[]) -C
+this.accounts == orig(this.accounts) -C
+this.accounts[] == orig(this.accounts[]) -C
+this.next_session_id == orig(this.next_session_id) -C
+this.next_account == orig(this.next_account) -C
+this.country == orig(this.country) -C
+this.numOfTransactionsWhenGreyListed == orig(this.numOfTransactionsWhenGreyListed) -C
+this.accountRequestsPerSession == orig(this.accountRequestsPerSession) -C
+this.maxNumOfAccountRequestsPerSession == orig(this.maxNumOfAccountRequestsPerSession) -C
+this.name.toString == orig(this.name.toString) -C
+this.country.toString == orig(this.country.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isWhitelisted():::EXIT
+this.uid == orig(this.uid) -C
+this.name == orig(this.name) -C
+this.mode == orig(this.mode) -C
+this.status == orig(this.status) -C
+this.type == orig(this.type) -C
+this.sessions == orig(this.sessions) -C
+this.sessions[] == orig(this.sessions[]) -C
+this.accounts == orig(this.accounts) -C
+this.accounts[] == orig(this.accounts[]) -C
+this.next_session_id == orig(this.next_session_id) -C
+this.next_account == orig(this.next_account) -C
+this.country == orig(this.country) -C
+this.numOfTransactionsWhenGreyListed == orig(this.numOfTransactionsWhenGreyListed) -C
+this.accountRequestsPerSession == orig(this.accountRequestsPerSession) -C
+this.maxNumOfAccountRequestsPerSession == orig(this.maxNumOfAccountRequestsPerSession) -C
+this.name.toString == orig(this.name.toString) -C
+this.country.toString == orig(this.country.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.isValidWithdrawalAmount(double):::EXIT
+this.opened == orig(this.opened) -C
+this.account_number == orig(this.account_number) -C
+this.balance == orig(this.balance) -C
+this.owner == orig(this.owner) -C
+this.account_number.toString == orig(this.account_number.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.closeSession():::EXIT
+this.sid == orig(this.sid) -C
+this.log == orig(this.log) -C
+this.owner == orig(this.owner) -C
+this.log.toString == orig(this.log.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo:::OBJECT
+size(um.edu.mt.fits.dsp0.user.UserInfo$UserMode.$VALUES[]) == 3 -C
+size(um.edu.mt.fits.dsp0.user.UserInfo$UserStatus.$VALUES[]) == 3 -C
+size(um.edu.mt.fits.dsp0.user.UserInfo$UserType.$VALUES[]) == 3 -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isGoldUser():::EXIT;condition="not(return == true)"
+return == false -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.openSession():::EXIT
+this.sid == orig(this.sid) -C
+this.log == orig(this.log) -C
+this.owner == orig(this.owner) -C
+this.log.toString == orig(this.log.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isActive():::EXIT
+this.uid == orig(this.uid) -C
+this.name == orig(this.name) -C
+this.mode == orig(this.mode) -C
+this.status == orig(this.status) -C
+this.type == orig(this.type) -C
+this.sessions == orig(this.sessions) -C
+this.sessions[] == orig(this.sessions[]) -C
+this.accounts == orig(this.accounts) -C
+this.accounts[] == orig(this.accounts[]) -C
+this.next_session_id == orig(this.next_session_id) -C
+this.next_account == orig(this.next_account) -C
+this.country == orig(this.country) -C
+this.numOfTransactionsWhenGreyListed == orig(this.numOfTransactionsWhenGreyListed) -C
+this.accountRequestsPerSession == orig(this.accountRequestsPerSession) -C
+this.maxNumOfAccountRequestsPerSession == orig(this.maxNumOfAccountRequestsPerSession) -C
+this.name.toString == orig(this.name.toString) -C
+this.country.toString == orig(this.country.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeActive():::EXIT
+this.uid == orig(this.uid) -C
+this.name == orig(this.name) -C
+this.status == orig(this.status) -C
+this.type == orig(this.type) -C
+this.sessions == orig(this.sessions) -C
+this.sessions[] == orig(this.sessions[]) -C
+this.accounts == orig(this.accounts) -C
+this.accounts[] == orig(this.accounts[]) -C
+this.next_session_id == orig(this.next_session_id) -C
+this.next_account == orig(this.next_account) -C
+this.country == orig(this.country) -C
+this.numOfTransactionsWhenGreyListed == orig(this.numOfTransactionsWhenGreyListed) -C
+this.accountRequestsPerSession == orig(this.accountRequestsPerSession) -C
+this.maxNumOfAccountRequestsPerSession == orig(this.maxNumOfAccountRequestsPerSession) -C
+this.name.toString == orig(this.name.toString) -C
+this.country.toString == orig(this.country.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getName():::EXIT
+this.uid == orig(this.uid) -C
+this.name == orig(this.name) -C
+this.mode == orig(this.mode) -C
+this.status == orig(this.status) -C
+this.type == orig(this.type) -C
+this.sessions == orig(this.sessions) -C
+this.sessions[] == orig(this.sessions[]) -C
+this.accounts == orig(this.accounts) -C
+this.accounts[] == orig(this.accounts[]) -C
+this.next_session_id == orig(this.next_session_id) -C
+this.next_account == orig(this.next_account) -C
+this.country == orig(this.country) -C
+this.numOfTransactionsWhenGreyListed == orig(this.numOfTransactionsWhenGreyListed) -C
+this.accountRequestsPerSession == orig(this.accountRequestsPerSession) -C
+this.maxNumOfAccountRequestsPerSession == orig(this.maxNumOfAccountRequestsPerSession) -C
+this.name.toString == orig(this.name.toString) -C
+this.country.toString == orig(this.country.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.getLog():::EXIT
+this.sid == orig(this.sid) -C
+this.log == orig(this.log) -C
+this.owner == orig(this.owner) -C
+this.sessionClosed == orig(this.sessionClosed) -C
+this.log.toString == orig(this.log.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.log(java.lang.String):::EXIT
+this.sid == orig(this.sid) -C
+this.owner == orig(this.owner) -C
+this.sessionClosed == orig(this.sessionClosed) -C
+l.toString == orig(l.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isNormalUser():::EXIT
+this.uid == orig(this.uid) -C
+this.name == orig(this.name) -C
+this.mode == orig(this.mode) -C
+this.status == orig(this.status) -C
+this.type == orig(this.type) -C
+this.sessions == orig(this.sessions) -C
+this.sessions[] == orig(this.sessions[]) -C
+this.accounts == orig(this.accounts) -C
+this.accounts[] == orig(this.accounts[]) -C
+this.next_session_id == orig(this.next_session_id) -C
+this.next_account == orig(this.next_account) -C
+this.country == orig(this.country) -C
+this.numOfTransactionsWhenGreyListed == orig(this.numOfTransactionsWhenGreyListed) -C
+this.accountRequestsPerSession == orig(this.accountRequestsPerSession) -C
+this.maxNumOfAccountRequestsPerSession == orig(this.maxNumOfAccountRequestsPerSession) -C
+this.name.toString == orig(this.name.toString) -C
+this.country.toString == orig(this.country.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.getOpened():::EXIT;condition="not(return == true)"
+this.opened == false -C
+return == false -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.getOpened():::EXIT;condition="return == true"
+this.opened == true -C
+return == true -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.isSessionClosed():::EXIT;condition="not(return == true)"
+this.sessionClosed == false -C
+return == false -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getCountry():::EXIT
+this.uid == orig(this.uid) -C
+this.name == orig(this.name) -C
+this.mode == orig(this.mode) -C
+this.status == orig(this.status) -C
+this.type == orig(this.type) -C
+this.sessions == orig(this.sessions) -C
+this.sessions[] == orig(this.sessions[]) -C
+this.accounts == orig(this.accounts) -C
+this.accounts[] == orig(this.accounts[]) -C
+this.next_session_id == orig(this.next_session_id) -C
+this.next_account == orig(this.next_account) -C
+this.country == orig(this.country) -C
+this.numOfTransactionsWhenGreyListed == orig(this.numOfTransactionsWhenGreyListed) -C
+this.accountRequestsPerSession == orig(this.accountRequestsPerSession) -C
+this.maxNumOfAccountRequestsPerSession == orig(this.maxNumOfAccountRequestsPerSession) -C
+this.name.toString == orig(this.name.toString) -C
+this.country.toString == orig(this.country.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeDisabled():::EXIT
+this.uid == orig(this.uid) -C
+this.name == orig(this.name) -C
+this.status == orig(this.status) -C
+this.type == orig(this.type) -C
+this.sessions == orig(this.sessions) -C
+this.sessions[] == orig(this.sessions[]) -C
+this.accounts == orig(this.accounts) -C
+this.accounts[] == orig(this.accounts[]) -C
+this.next_session_id == orig(this.next_session_id) -C
+this.next_account == orig(this.next_account) -C
+this.country == orig(this.country) -C
+this.numOfTransactionsWhenGreyListed == orig(this.numOfTransactionsWhenGreyListed) -C
+this.accountRequestsPerSession == orig(this.accountRequestsPerSession) -C
+this.maxNumOfAccountRequestsPerSession == orig(this.maxNumOfAccountRequestsPerSession) -C
+this.name.toString == orig(this.name.toString) -C
+this.country.toString == orig(this.country.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isActive():::EXIT;condition="not(return == true)"
+return == false -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeNormalUser():::EXIT
+this.uid == orig(this.uid) -C
+this.name == orig(this.name) -C
+this.mode == orig(this.mode) -C
+this.status == orig(this.status) -C
+this.sessions == orig(this.sessions) -C
+this.accounts == orig(this.accounts) -C
+this.next_session_id == orig(this.next_session_id) -C
+this.next_account == orig(this.next_account) -C
+this.country == orig(this.country) -C
+this.numOfTransactionsWhenGreyListed == orig(this.numOfTransactionsWhenGreyListed) -C
+this.accountRequestsPerSession == orig(this.accountRequestsPerSession) -C
+this.maxNumOfAccountRequestsPerSession == orig(this.maxNumOfAccountRequestsPerSession) -C
+this.name.toString == orig(this.name.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.closeAccount():::EXIT
+this.account_number == orig(this.account_number) -C
+this.balance == orig(this.balance) -C
+this.owner == orig(this.owner) -C
+this.account_number.toString == orig(this.account_number.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.getOwner():::EXIT
+this.opened == orig(this.opened) -C
+this.account_number == orig(this.account_number) -C
+this.balance == orig(this.balance) -C
+this.owner == orig(this.owner) -C
+this.account_number.toString == orig(this.account_number.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeGoldUser():::EXIT
+this.uid == orig(this.uid) -C
+this.name == orig(this.name) -C
+this.mode == orig(this.mode) -C
+this.status == orig(this.status) -C
+this.sessions == orig(this.sessions) -C
+this.sessions[] == orig(this.sessions[]) -C
+this.accounts == orig(this.accounts) -C
+this.accounts[] == orig(this.accounts[]) -C
+this.next_session_id == orig(this.next_session_id) -C
+this.next_account == orig(this.next_account) -C
+this.country == orig(this.country) -C
+this.numOfTransactionsWhenGreyListed == orig(this.numOfTransactionsWhenGreyListed) -C
+this.accountRequestsPerSession == orig(this.accountRequestsPerSession) -C
+this.maxNumOfAccountRequestsPerSession == orig(this.maxNumOfAccountRequestsPerSession) -C
+this.name.toString == orig(this.name.toString) -C
+this.country.toString == orig(this.country.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.getOpened():::EXIT
+this.opened == orig(this.opened) -C
+this.account_number == orig(this.account_number) -C
+this.balance == orig(this.balance) -C
+this.owner == orig(this.owner) -C
+(this.opened == false)  <==>  (return == false) -C
+(this.opened == true)  <==>  (return == true) -C
+this.account_number.toString == orig(this.account_number.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isBlacklisted():::EXIT
+this.uid == orig(this.uid) -C
+this.name == orig(this.name) -C
+this.mode == orig(this.mode) -C
+this.status == orig(this.status) -C
+this.type == orig(this.type) -C
+this.sessions == orig(this.sessions) -C
+this.sessions[] == orig(this.sessions[]) -C
+this.accounts == orig(this.accounts) -C
+this.accounts[] == orig(this.accounts[]) -C
+this.next_session_id == orig(this.next_session_id) -C
+this.next_account == orig(this.next_account) -C
+this.country == orig(this.country) -C
+this.numOfTransactionsWhenGreyListed == orig(this.numOfTransactionsWhenGreyListed) -C
+this.accountRequestsPerSession == orig(this.accountRequestsPerSession) -C
+this.maxNumOfAccountRequestsPerSession == orig(this.maxNumOfAccountRequestsPerSession) -C
+this.name.toString == orig(this.name.toString) -C
+this.country.toString == orig(this.country.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isFrozen():::EXIT
+this.uid == orig(this.uid) -C
+this.name == orig(this.name) -C
+this.mode == orig(this.mode) -C
+this.status == orig(this.status) -C
+this.type == orig(this.type) -C
+this.sessions == orig(this.sessions) -C
+this.sessions[] == orig(this.sessions[]) -C
+this.accounts == orig(this.accounts) -C
+this.accounts[] == orig(this.accounts[]) -C
+this.next_session_id == orig(this.next_session_id) -C
+this.next_account == orig(this.next_account) -C
+this.country == orig(this.country) -C
+this.numOfTransactionsWhenGreyListed == orig(this.numOfTransactionsWhenGreyListed) -C
+this.accountRequestsPerSession == orig(this.accountRequestsPerSession) -C
+this.maxNumOfAccountRequestsPerSession == orig(this.maxNumOfAccountRequestsPerSession) -C
+this.name.toString == orig(this.name.toString) -C
+this.country.toString == orig(this.country.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.withdraw(double):::EXIT
+this.opened == orig(this.opened) -C
+this.account_number == orig(this.account_number) -C
+this.owner == orig(this.owner) -C
+this.account_number.toString == orig(this.account_number.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.isSessionClosed():::EXIT
+this.sid == orig(this.sid) -C
+this.log == orig(this.log) -C
+this.owner == orig(this.owner) -C
+this.sessionClosed == orig(this.sessionClosed) -C
+(this.sessionClosed == false)  <==>  (return == false) -C
+(this.sessionClosed == true)  <==>  (return == true) -C
+this.log.toString == orig(this.log.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.isSessionClosed():::EXIT;condition="return == true"
+this.sessionClosed == true -C
+return == true -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.UserAccount(java.lang.Integer, java.lang.String):::EXIT
+anumber.toString == orig(anumber.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getId():::EXIT
+this.uid == orig(this.uid) -C
+this.name == orig(this.name) -C
+this.mode == orig(this.mode) -C
+this.status == orig(this.status) -C
+this.type == orig(this.type) -C
+this.sessions == orig(this.sessions) -C
+this.sessions[] == orig(this.sessions[]) -C
+this.accounts == orig(this.accounts) -C
+this.accounts[] == orig(this.accounts[]) -C
+this.next_session_id == orig(this.next_session_id) -C
+this.next_account == orig(this.next_account) -C
+this.country == orig(this.country) -C
+this.numOfTransactionsWhenGreyListed == orig(this.numOfTransactionsWhenGreyListed) -C
+this.accountRequestsPerSession == orig(this.accountRequestsPerSession) -C
+this.maxNumOfAccountRequestsPerSession == orig(this.maxNumOfAccountRequestsPerSession) -C
+this.name.toString == orig(this.name.toString) -C
+this.country.toString == orig(this.country.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isSilverUser():::EXIT;condition="not(return == true)"
+return == false -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isFrozen():::EXIT;condition="not(return == true)"
+return == false -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeSilverUser():::EXIT
+this.uid == orig(this.uid) -C
+this.name == orig(this.name) -C
+this.mode == orig(this.mode) -C
+this.status == orig(this.status) -C
+this.sessions == orig(this.sessions) -C
+this.sessions[] == orig(this.sessions[]) -C
+this.accounts == orig(this.accounts) -C
+this.accounts[] == orig(this.accounts[]) -C
+this.next_session_id == orig(this.next_session_id) -C
+this.next_account == orig(this.next_account) -C
+this.country == orig(this.country) -C
+this.numOfTransactionsWhenGreyListed == orig(this.numOfTransactionsWhenGreyListed) -C
+this.accountRequestsPerSession == orig(this.accountRequestsPerSession) -C
+this.maxNumOfAccountRequestsPerSession == orig(this.maxNumOfAccountRequestsPerSession) -C
+this.name.toString == orig(this.name.toString) -C
+this.country.toString == orig(this.country.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isActive():::EXIT;condition="return == true"
+return == true -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isGoldUser():::EXIT
+this.uid == orig(this.uid) -C
+this.name == orig(this.name) -C
+this.mode == orig(this.mode) -C
+this.status == orig(this.status) -C
+this.type == orig(this.type) -C
+this.sessions == orig(this.sessions) -C
+this.sessions[] == orig(this.sessions[]) -C
+this.accounts == orig(this.accounts) -C
+this.accounts[] == orig(this.accounts[]) -C
+this.next_session_id == orig(this.next_session_id) -C
+this.next_account == orig(this.next_account) -C
+this.country == orig(this.country) -C
+this.numOfTransactionsWhenGreyListed == orig(this.numOfTransactionsWhenGreyListed) -C
+this.accountRequestsPerSession == orig(this.accountRequestsPerSession) -C
+this.maxNumOfAccountRequestsPerSession == orig(this.maxNumOfAccountRequestsPerSession) -C
+this.name.toString == orig(this.name.toString) -C
+this.country.toString == orig(this.country.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isGoldUser():::EXIT;condition="return == true"
+return == true -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.greylist():::EXIT
+this.uid == orig(this.uid) -C
+this.name == orig(this.name) -C
+this.mode == orig(this.mode) -C
+this.type == orig(this.type) -C
+this.sessions == orig(this.sessions) -C
+this.sessions[] == orig(this.sessions[]) -C
+this.accounts == orig(this.accounts) -C
+this.accounts[] == orig(this.accounts[]) -C
+this.next_session_id == orig(this.next_session_id) -C
+this.next_account == orig(this.next_account) -C
+this.country == orig(this.country) -C
+this.numOfTransactionsWhenGreyListed == orig(this.numOfTransactionsWhenGreyListed) -C
+this.accountRequestsPerSession == orig(this.accountRequestsPerSession) -C
+this.maxNumOfAccountRequestsPerSession == orig(this.maxNumOfAccountRequestsPerSession) -C
+this.name.toString == orig(this.name.toString) -C
+this.country.toString == orig(this.country.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.getAccountNumber():::EXIT
+this.opened == orig(this.opened) -C
+this.account_number == orig(this.account_number) -C
+this.balance == orig(this.balance) -C
+this.owner == orig(this.owner) -C
+this.account_number.toString == orig(this.account_number.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.deposit(double):::EXIT
+this.opened == orig(this.opened) -C
+this.account_number == orig(this.account_number) -C
+this.owner == orig(this.owner) -C
+this.account_number.toString == orig(this.account_number.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.isValidDepositAmount(double):::EXIT
+this.opened == orig(this.opened) -C
+this.account_number == orig(this.account_number) -C
+this.balance == orig(this.balance) -C
+this.owner == orig(this.owner) -C
+this.account_number.toString == orig(this.account_number.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isSilverUser():::EXIT
+this.uid == orig(this.uid) -C
+this.name == orig(this.name) -C
+this.mode == orig(this.mode) -C
+this.status == orig(this.status) -C
+this.type == orig(this.type) -C
+this.sessions == orig(this.sessions) -C
+this.sessions[] == orig(this.sessions[]) -C
+this.accounts == orig(this.accounts) -C
+this.accounts[] == orig(this.accounts[]) -C
+this.next_session_id == orig(this.next_session_id) -C
+this.next_account == orig(this.next_account) -C
+this.country == orig(this.country) -C
+this.numOfTransactionsWhenGreyListed == orig(this.numOfTransactionsWhenGreyListed) -C
+this.accountRequestsPerSession == orig(this.accountRequestsPerSession) -C
+this.maxNumOfAccountRequestsPerSession == orig(this.maxNumOfAccountRequestsPerSession) -C
+this.name.toString == orig(this.name.toString) -C
+this.country.toString == orig(this.country.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isDisabled():::EXIT
+this.uid == orig(this.uid) -C
+this.name == orig(this.name) -C
+this.mode == orig(this.mode) -C
+this.status == orig(this.status) -C
+this.type == orig(this.type) -C
+this.sessions == orig(this.sessions) -C
+this.sessions[] == orig(this.sessions[]) -C
+this.accounts == orig(this.accounts) -C
+this.accounts[] == orig(this.accounts[]) -C
+this.next_session_id == orig(this.next_session_id) -C
+this.next_account == orig(this.next_account) -C
+this.country == orig(this.country) -C
+this.numOfTransactionsWhenGreyListed == orig(this.numOfTransactionsWhenGreyListed) -C
+this.accountRequestsPerSession == orig(this.accountRequestsPerSession) -C
+this.maxNumOfAccountRequestsPerSession == orig(this.maxNumOfAccountRequestsPerSession) -C
+this.name.toString == orig(this.name.toString) -C
+this.country.toString == orig(this.country.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.getBalance():::EXIT
+this.opened == orig(this.opened) -C
+this.account_number == orig(this.account_number) -C
+this.balance == orig(this.balance) -C
+this.owner == orig(this.owner) -C
+this.account_number.toString == orig(this.account_number.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.getId():::EXIT
+this.sid == orig(this.sid) -C
+this.log == orig(this.log) -C
+this.owner == orig(this.owner) -C
+this.sessionClosed == orig(this.sessionClosed) -C
+this.log.toString == orig(this.log.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeUnfrozen():::EXIT
+this.uid == orig(this.uid) -C
+this.name == orig(this.name) -C
+this.status == orig(this.status) -C
+this.type == orig(this.type) -C
+this.sessions == orig(this.sessions) -C
+this.sessions[] == orig(this.sessions[]) -C
+this.accounts == orig(this.accounts) -C
+this.accounts[] == orig(this.accounts[]) -C
+this.next_session_id == orig(this.next_session_id) -C
+this.next_account == orig(this.next_account) -C
+this.country == orig(this.country) -C
+this.numOfTransactionsWhenGreyListed == orig(this.numOfTransactionsWhenGreyListed) -C
+this.accountRequestsPerSession == orig(this.accountRequestsPerSession) -C
+this.maxNumOfAccountRequestsPerSession == orig(this.maxNumOfAccountRequestsPerSession) -C
+this.name.toString == orig(this.name.toString) -C
+this.country.toString == orig(this.country.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.UserInfo(java.lang.Integer, java.lang.String, java.lang.String):::EXIT
+name.toString == orig(name.toString) -C
+country.toString == orig(country.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.activateAccount():::EXIT
+this.account_number == orig(this.account_number) -C
+this.balance == orig(this.balance) -C
+this.owner == orig(this.owner) -C
+this.account_number.toString == orig(this.account_number.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.whitelist():::EXIT
+this.uid == orig(this.uid) -C
+this.name == orig(this.name) -C
+this.mode == orig(this.mode) -C
+this.type == orig(this.type) -C
+this.sessions == orig(this.sessions) -C
+this.sessions[] == orig(this.sessions[]) -C
+this.accounts == orig(this.accounts) -C
+this.accounts[] == orig(this.accounts[]) -C
+this.next_session_id == orig(this.next_session_id) -C
+this.next_account == orig(this.next_account) -C
+this.country == orig(this.country) -C
+this.numOfTransactionsWhenGreyListed == orig(this.numOfTransactionsWhenGreyListed) -C
+this.accountRequestsPerSession == orig(this.accountRequestsPerSession) -C
+this.maxNumOfAccountRequestsPerSession == orig(this.maxNumOfAccountRequestsPerSession) -C
+this.name.toString == orig(this.name.toString) -C
+this.country.toString == orig(this.country.toString) -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isSilverUser():::EXIT;condition="return == true"
+return == true -C

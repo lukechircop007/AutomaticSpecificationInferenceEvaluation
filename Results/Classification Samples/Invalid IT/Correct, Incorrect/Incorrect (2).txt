@@ -1,0 +1,23 @@
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.log(java.lang.String):::ENTER
+l != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.createAccount(java.lang.Integer):::EXIT
+(return != null)  <==>  (size(this.accounts[])-1 == orig(size(this.accounts[]))) -EC
+(return != null)  ==>  (size(this.accounts[]) >= 1) -EC
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo:::OBJECT
+this.sessions[] elements != null -EC
+this.accounts[] elements != null -EC
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem:::OBJECT
+this.users[] elements != null -EC
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getAccount(java.lang.String):::EXIT
+(return != null)  ==>  (return.account_number != null) -EC
+(return != null)  ==>  (return.balance >= 0.0) -EC
+(return != null)  ==>  (size(this.accounts[]) >= 1)  -EC
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.UserInfo(java.lang.Integer, java.lang.String, java.lang.String):::EXIT
+this.sessions[] == [] -EC
+this.accounts[] == [] -EC

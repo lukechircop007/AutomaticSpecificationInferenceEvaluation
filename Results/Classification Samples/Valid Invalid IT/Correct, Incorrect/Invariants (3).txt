@@ -1,0 +1,912 @@
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeFrozen():::EXIT
+this.accounts[] == [] -I
+this.accounts[].getClass().getName() == []  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.ADMIN_initialise():::ENTER
+this.ts.initialised == false -C
+this.ts.users[] == []  -I
+this.ts.users[].getClass().getName() == []  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getName():::ENTER
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == []  -I
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.blacklist():::EXIT
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == []  -I
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface:::OBJECT
+this.maxNumOfOpenSessions == 3 -C
+this.ts != null -C
+this.ts.users != null -C
+this.ts.users[] elements != null -EC
+this.ts.next_user_id != null -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.createAccount(java.lang.Integer):::EXIT
+(return == null)  <==>  (orig(size(this.accounts[])) == 10)  -I
+(return == null)  ==>  (this.sessions[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserSession])  -I
+this.mode != null  -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null -I 
+this.accounts != null  -I
+this.next_session_id != null  -I
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null -I 
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.isValidDepositAmount(double):::EXIT91
+this.opened == true -I
+return == true -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.addUser(java.lang.String, java.lang.String):::ENTER
+name != null -C
+country != null -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.isValidDepositAmount(double):::EXIT92
+return == false -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.ADMIN_makeGoldUser(java.lang.Integer):::EXIT;condition="not(return == true)"
+this.ts.initialised == false  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_freezeUserAccount(java.lang.Integer, java.lang.Integer):::ENTER
+this.ts.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo:::OBJECT
+this.maxNumOfAccountRequestsPerSession == 10 -C
+this.uid != null -C
+this.name != null -C
+this.accountRequestsPerSession != null -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.closeSession(java.lang.Integer):::EXIT
+this.mode != null  -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null  -I
+this.accounts != null  -I
+this.next_session_id != null  -I
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_payToExternal(java.lang.Integer, java.lang.Integer, java.lang.String, double):::EXIT437
+return == false  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.charges(java.lang.Integer, double):::EXIT146
+this.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+return == 0.0  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.openSession():::EXIT
+this.sessionClosed == false -C
+this.log.toString == "" -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isActive():::EXIT
+return == true  -I
+this.mode != null  -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null  -I
+this.accounts != null  -I
+this.next_session_id != null 
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isActive():::ENTER
+this.mode != null  -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null  -I
+this.accounts != null  -I
+this.next_session_id != null  -I
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeNormalUser():::ENTER
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == []  -I
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+this.mode != null  -I
+this.status != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.charges(java.lang.Integer, double):::EXIT155
+this.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+return one of { 3.0, 7.5 }  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.charges(java.lang.Integer, double):::EXIT156
+this.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo] -I 
+this.initialised == false  -I
+return == 50.0  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.getUserInfo(java.lang.Integer):::ENTER
+uid != null -C
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.charges(java.lang.Integer, double):::EXIT150
+this.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+this.initialised == false  -I
+return == 250.0  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.charges(java.lang.Integer, double):::EXIT148
+this.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+this.initialised == false  -I
+return == 5.0  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.ADMIN_makeSilverUser(java.lang.Integer):::EXIT
+this.ts.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.safeToAddUser(java.lang.String, java.lang.String):::EXIT114
+this.initialised == false  -I
+return == false  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_closeAccount(java.lang.Integer, java.lang.Integer, java.lang.String):::EXIT
+this.ts.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+return == true  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getCountry():::EXIT
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == []  -I
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.safeToAddUser(java.lang.String, java.lang.String):::EXIT117
+return == true  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_logout(java.lang.Integer, java.lang.Integer):::EXIT
+return == true  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.ADMIN_makeNormalUser(java.lang.Integer):::EXIT
+this.ts.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+this.ts.initialised == false  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_payToExternal(java.lang.Integer, java.lang.Integer, java.lang.String, double):::EXIT457
+return == true  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.ADMIN_blacklistUser(java.lang.Integer):::ENTER
+this.ts.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+this.ts.initialised == false  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeDisabled():::EXIT
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == []  -I
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+this.mode != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeGoldUser():::ENTER
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == [] -I 
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.charges(java.lang.Integer, double):::EXIT167
+this.initialised == false  -I
+return == -1.0  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.charges(java.lang.Integer, double):::EXIT161
+return one of { 5.0, 125.0 }  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.initialise():::EXIT
+this.initialised == true -C
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.charges(java.lang.Integer, double):::EXIT163
+this.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+this.initialised == false  -I
+return == 2.0  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeNormalUser():::EXIT
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == []  -I
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+this.mode != null  -I
+this.status != null  -I
+this.type != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.ADMIN_createUser(java.lang.String, java.lang.String):::ENTER
+name != null -C
+country != null -C 
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeFrozen():::ENTER
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getCountry():::ENTER
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == []  -I
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_payToExternal(java.lang.Integer, java.lang.Integer, java.lang.String, double):::EXIT462
+return == false  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.createAccount(java.lang.Integer):::ENTER
+this.mode != null  -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null  -I
+this.accounts != null  -I
+this.next_session_id != null  -I
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null  -I
+sid != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getSessions():::ENTER
+this.mode != null  -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null  -I
+this.accounts != null  -I
+this.next_session_id != null  -I
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeGoldUser():::EXIT
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == []  -I
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == [] -I 
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getAccounts():::EXIT
+return[].getClass().getName() one of { [], [um.edu.mt.fits.dsp0.user.UserAccount] }  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.createAccount(java.lang.Integer):::EXIT431
+return != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession:::OBJECT
+this.sid != null -C
+this.log != null -C
+this.owner != null -C
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.ADMIN_approveOpenAccount(java.lang.Integer, java.lang.String):::EXIT
+return == true  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getId():::ENTER
+this.mode != null  -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null  -I
+this.accounts != null  -I
+this.next_session_id != null  -I
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.ADMIN_makeGoldUser(java.lang.Integer):::EXIT175
+return == true  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.ADMIN_makeGoldUser(java.lang.Integer):::EXIT177
+this.ts.initialised == false  -I
+return == false  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_transferToOtherAccount(java.lang.Integer, java.lang.Integer, java.lang.String, java.lang.Integer, java.lang.String, double):::EXIT504
+return == true  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getId():::EXIT
+this.mode != null  -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null  -I
+this.accounts != null  -I
+this.next_session_id != null  -I
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null  -I
+return != null 
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.createAccount(java.lang.Integer):::EXIT433
+return == null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.openSession():::ENTER
+this.mode != null  -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null  -I
+this.accounts != null  -I
+this.next_session_id != null  -I
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.getUsers():::EXIT
+this.initialised == false  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_transferToOtherAccount(java.lang.Integer, java.lang.Integer, java.lang.String, java.lang.Integer, java.lang.String, double):::EXIT509
+return == false  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeSilverUser():::EXIT
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == []  -I
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isGoldUser():::EXIT
+this.mode != null  -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null  -I
+this.accounts != null  -I
+this.next_session_id != null  -I
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.ADMIN_disableUser(java.lang.Integer):::ENTER
+this.ts.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+this.ts.initialised == false  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeUnfrozen():::ENTER
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getAccount(java.lang.String):::ENTER
+this.mode != null -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null  -I
+this.accounts != null  -I
+this.next_session_id != null  -I
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null  -I
+account_number != null -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.openSession():::EXIT
+size(this.sessions[])-1 == orig(size(this.sessions[])) -C
+this.mode != null -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null  -I
+this.accounts != null  -I
+this.next_session_id != null  -I
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null  -I
+return != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_transferOwnAccounts(java.lang.Integer, java.lang.Integer, java.lang.String, java.lang.String, double):::EXIT
+this.ts.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isDisabled():::ENTER
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == []  -I
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_freezeUserAccount(java.lang.Integer, java.lang.Integer):::EXIT
+this.ts.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+return == true  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.ADMIN_makeNormalUser(java.lang.Integer):::ENTER
+this.ts.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+this.ts.initialised == false  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.ADMIN_makeGoldUser(java.lang.Integer):::ENTER
+this.ts.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getSessions():::EXIT
+this.mode != null  -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null  -I
+this.accounts != null  -I
+this.next_session_id != null  -I
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null  -I
+return != null  -I
+return[] elements != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getSession(java.lang.Integer):::EXIT346
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == []  -I
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+return == null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getSession(java.lang.Integer):::EXIT344
+return != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isDisabled():::EXIT
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == []  -I
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+return == true  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getAccount(java.lang.String):::EXIT
+(return != null)  ==>  (return.owner != null) -I
+this.mode != null  -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null  -I
+this.accounts != null  -I
+this.next_session_id != null  -I
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null  -I
+return.account_number != null  -I
+return.owner != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeActive():::ENTER
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == []  -I
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+this.mode != null -C
+this.status != null -I
+this.type != null  -I
+this.sessions != null  -I
+this.accounts != null  -I
+this.next_session_id != null  -I
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.UserSession(java.lang.Integer, java.lang.Integer):::EXIT
+this.log.toString == "" -C
+this.sessionClosed == true -C 
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isWhitelisted():::EXIT;condition="not(return == true)"
+this.sessions[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserSession, um.edu.mt.fits.dsp0.user.UserSession]  -I
+this.accounts[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserAccount]  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.openSession():::ENTER
+this.sessionClosed == true -C
+this.log.toString == "" -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeUnfrozen():::EXIT
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.withdrawFrom(java.lang.String, double):::EXIT
+this.accounts[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserAccount]  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.whitelist():::EXIT
+(this.sessions[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserSession, um.edu.mt.fits.dsp0.user.UserSession])  ==>  (this.accounts[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserAccount])  -I
+(this.sessions[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserSession, um.edu.mt.fits.dsp0.user.UserSession])  ==>  (this.status == orig(this.status))  -I
+size(this.sessions[]) one of { 0, 2, 3 }  -I
+this.mode != null  -I
+this.status != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.safeToAddUser(java.lang.String, java.lang.String):::ENTER
+name != null  -I
+country != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.isValidWithdrawalAmount(double):::EXIT104
+return == false -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.ADMIN_initialise():::EXIT
+this.ts.initialised == true -C
+this.ts.users[] == []  -I
+this.ts.users[].getClass().getName() == [] -I 
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.isValidWithdrawalAmount(double):::EXIT103
+this.opened == true -I
+return == true -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isWhitelisted():::ENTER
+size(this.sessions[]) one of { 0, 2, 3 }  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.TransactionSystem():::EXIT
+this.initialised == false -C
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_transferOwnAccounts(java.lang.Integer, java.lang.Integer, java.lang.String, java.lang.String, double):::ENTER
+this.ts.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.log(java.lang.String):::ENTER
+this.sessionClosed == false  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isWhitelisted():::EXIT
+(this.sessions[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserSession, um.edu.mt.fits.dsp0.user.UserSession])  <==>  (return == false) 
+(this.sessions[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserSession, um.edu.mt.fits.dsp0.user.UserSession])  ==>  (this.accounts[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserAccount]) 
+size(this.sessions[]) one of { 0, 2, 3 }  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_transferOwnAccounts(java.lang.Integer, java.lang.Integer, java.lang.String, java.lang.String, double):::EXIT549
+return == false  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getSession(java.lang.Integer):::ENTER
+this.mode != null  -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null  -I
+this.accounts != null  -I
+this.next_session_id != null -I 
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null  -I
+sid != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.withdrawFrom(java.lang.String, double):::ENTER
+this.accounts[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserAccount]  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.closeSession():::EXIT
+this.sessionClosed == true -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isSilverUser():::ENTER
+this.mode != null  -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null  -I
+this.accounts != null  -I
+this.next_session_id != null  -I
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isFrozen():::ENTER
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_closeAccount(java.lang.Integer, java.lang.Integer, java.lang.String):::ENTER
+this.ts.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isBlacklisted():::ENTER
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == []  -I
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.getUsers():::ENTER
+this.initialised == false  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.UserInfo(java.lang.Integer, java.lang.String, java.lang.String):::ENTER
+uid != null -I
+name != null -I
+country != null -I 
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_login(java.lang.Integer):::EXIT
+return != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_transferOwnAccounts(java.lang.Integer, java.lang.Integer, java.lang.String, java.lang.String, double):::EXIT545
+return == true  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getSession(java.lang.Integer):::EXIT
+(return == null)  ==>  (this.accounts[] == [])  -I
+(return == null)  ==>  (this.accounts[].getClass().getName() == [])  -I
+(return == null)  ==>  (this.sessions[].getClass().getName() == [])  -I
+(return != null)  ==>  (return.log != null)  -I
+(return != null)  ==>  (return.owner != null)  -I
+(return != null)  ==>  (return.sid != null)  -I
+(return != null)  ==>  (this.accounts[].getClass().getName() elements == um.edu.mt.fits.dsp0.user.UserAccount.class) -I 
+(return != null)  ==>  (this.sessions[].getClass().getName() elements == um.edu.mt.fits.dsp0.user.UserSession.class)  -I
+this.mode != null  -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null  -I
+this.accounts != null  -I
+this.next_session_id != null  -I
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null  -I
+return.sid != null  -I
+return.log != null  -I
+return.owner != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeActive():::EXIT
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == []  -I
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+this.mode != null  -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null  -I
+this.accounts != null  -I
+this.next_session_id != null  -I
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getAccount(java.lang.String):::EXIT405
+size(this.accounts[]) >= 1  -I
+return != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getAccount(java.lang.String):::EXIT407
+return == null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.depositTo(java.lang.String, double):::EXIT
+this.accounts[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserAccount]  -I
+this.mode != null  -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null  -I
+this.accounts != null  -I
+this.next_session_id != null  -I
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.getName():::EXIT
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == []  -I
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.activateAccount():::ENTER
+this.opened == false -C
+this.balance == 0.0 -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.log(java.lang.String):::EXIT
+this.sessionClosed == false  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isNormalUser():::EXIT
+return == true  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeDisabled():::ENTER
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == []  -I
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.closeSession():::ENTER
+this.sessionClosed == false -C
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.ADMIN_blacklistUser(java.lang.Integer):::EXIT
+this.ts.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+this.ts.initialised == false  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.getUserInfo(java.lang.Integer):::EXIT
+(return != null)  ==>  (return.accountRequestsPerSession != null) -I 
+(return != null)  ==>  (return.accounts != null)  -I
+(return != null)  ==>  (return.accounts[] elements != null)  -I
+(return != null)  ==>  (return.accounts[].getClass().getName() elements == um.edu.mt.fits.dsp0.user.UserAccount.class)  -I
+(return != null)  ==>  (return.country != null)  -I
+(return != null)  ==>  (return.mode != null)  -I
+(return != null)  ==>  (return.name != null)  -I
+(return != null)  ==>  (return.next_account != null)  -I
+(return != null)  ==>  (return.next_session_id != null)  -I
+(return != null)  ==>  (return.numOfTransactionsWhenGreyListed != null)  -I
+(return != null)  ==>  (return.sessions != null)  -I
+(return != null)  ==>  (return.sessions[] elements != null)  -I
+(return != null)  ==>  (return.sessions[].getClass().getName() elements == um.edu.mt.fits.dsp0.user.UserSession.class) -I 
+(return != null)  ==>  (return.status != null)  -I
+(return != null)  ==>  (return.type != null)  -I
+(return != null)  ==>  (return.uid != null)  -I
+return.uid != null  -I
+return.name != null  -I
+return.mode != null  -I
+return.status != null  -I
+return.type != null  -I
+return.sessions != null  -I
+return.sessions[] elements != null  -I
+return.accounts != null  -I
+return.accounts[] elements != null  -I
+return.next_session_id != null  -I
+return.next_account != null  -I
+return.country != null  -I
+return.numOfTransactionsWhenGreyListed != null  -I
+return.accountRequestsPerSession != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_payToExternal(java.lang.Integer, java.lang.Integer, java.lang.String, double):::EXIT
+this.ts.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.closeAccount():::EXIT
+this.opened == false -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.deleteAccount(java.lang.String):::EXIT
+this.accounts[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserAccount]  -I
+return == true  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.makeSilverUser():::ENTER
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == []  -I
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_payToExternal(java.lang.Integer, java.lang.Integer, java.lang.String, double):::ENTER
+this.ts.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.ADMIN_makeSilverUser(java.lang.Integer):::ENTER
+this.ts.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.deleteAccount(java.lang.String):::ENTER
+this.accounts[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserAccount]  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.ADMIN_createUser(java.lang.String, java.lang.String):::EXIT
+return != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isBlacklisted():::EXIT
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == []  -I
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+return == true  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.getUserInfo(java.lang.Integer):::EXIT101
+return == null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isFrozen():::EXIT
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_depositFromExternal(java.lang.Integer, java.lang.Integer, java.lang.String, double):::EXIT
+return == true  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.whitelist():::ENTER
+size(this.sessions[]) one of { 0, 2, 3 }  -I
+this.mode != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_requestAccount(java.lang.Integer, java.lang.Integer):::ENTER
+uid != null  -I
+sid != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.initialise():::ENTER
+this.initialised == false -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.UserAccount(java.lang.Integer, java.lang.String):::EXIT
+this.opened == false -C
+this.balance == 0.0 -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isGoldUser():::ENTER
+this.mode != null  -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null  -I
+this.accounts != null  -I
+this.next_session_id != null  -I
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount:::OBJECT
+this.balance >= 0.0 -C
+this.account_number != null -C
+this.owner != null -C
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.ADMIN_approveOpenAccount(java.lang.Integer, java.lang.String):::ENTER
+uid != null  -I
+account_number != null -C
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.ADMIN_activateUser(java.lang.Integer):::ENTER
+uid != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.Interface():::EXIT
+this.ts.users[] == []  -I
+this.ts.users[].getClass().getName() == []  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_login(java.lang.Integer):::ENTER
+uid != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.safeToAddUser(java.lang.String, java.lang.String):::EXIT;condition="not(return == true)"
+this.initialised == false  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_transferToOtherAccount(java.lang.Integer, java.lang.Integer, java.lang.String, java.lang.Integer, java.lang.String, double):::EXIT
+this.ts.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo, um.edu.mt.fits.dsp0.user.UserInfo]  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.charges(java.lang.Integer, double):::ENTER
+uid != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isGreylisted():::ENTER
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == []  -I
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.UserSession(java.lang.Integer, java.lang.Integer):::ENTER
+uid != null  -I
+sid != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.UserAccount(java.lang.Integer, java.lang.String):::ENTER
+uid != null -I
+anumber != null -C
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.getUserInfo(java.lang.Integer):::EXIT99
+return != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem.addUser(java.lang.String, java.lang.String):::EXIT
+return != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.getAccountNumber():::EXIT
+return != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.TransactionSystem:::OBJECT
+this.users != null -C
+this.next_user_id != null -C
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.depositTo(java.lang.String, double):::ENTER
+this.accounts[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserAccount] -I
+this.mode != null -I
+this.status != null -I
+this.type != null -I
+this.sessions != null -I
+this.accounts != null -I
+this.next_session_id != null -I 
+this.next_account != null -I
+this.country != null -I
+this.numOfTransactionsWhenGreyListed != null -I
+account_number != null -C
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.ADMIN_disableUser(java.lang.Integer):::EXIT
+this.ts.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+this.ts.initialised == false  -I
+===========================================================================
+um.edu.mt.fits.dsp0.exceptions.UserInfoNotFoundException.UserInfoNotFoundException(java.lang.String):::ENTER
+message != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isSilverUser():::EXIT
+this.mode != null  -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null  -I
+this.accounts != null  -I
+this.next_session_id != null  -I
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_transferToOtherAccount(java.lang.Integer, java.lang.Integer, java.lang.String, java.lang.Integer, java.lang.String, double):::ENTER
+this.ts.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo, um.edu.mt.fits.dsp0.user.UserInfo]  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.closeSession(java.lang.Integer):::ENTER
+this.mode != null  -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null  -I
+this.accounts != null  -I
+this.next_session_id != null  -I
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null -I 
+sid != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserSession.getId():::EXIT
+return != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.blacklist():::ENTER
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == []  -I
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.UserInfo(java.lang.Integer, java.lang.String, java.lang.String):::EXIT
+this.sessions[].getClass().getName() == []  -I
+this.accounts[].getClass().getName() == []  -I
+this.mode != null  -I
+this.status != null  -I
+this.type != null  -I
+this.sessions != null -C
+this.accounts != null -C
+this.next_session_id != null  -I
+this.next_account != null  -I
+this.country != null  -I
+this.numOfTransactionsWhenGreyListed != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_logout(java.lang.Integer, java.lang.Integer):::ENTER
+uid != null  -I
+sid != null  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_unfreezeUserAccount(java.lang.Integer, java.lang.Integer):::EXIT
+this.ts.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+return == true  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserAccount.activateAccount():::EXIT
+this.opened == true -C
+this.balance == 0.0 -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.USER_unfreezeUserAccount(java.lang.Integer, java.lang.Integer):::ENTER
+this.ts.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+===========================================================================
+um.edu.mt.fits.dsp0.api.Interface.ADMIN_makeGoldUser(java.lang.Integer):::EXIT
+(return == false)  ==>  (this.ts.initialised == false)  -I
+this.ts.users[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserInfo]  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.isGreylisted():::EXIT
+this.sessions[] == []  -I
+this.sessions[].getClass().getName() == []  -I
+this.accounts[] == []  -I
+this.accounts[].getClass().getName() == []  -I
+return == true  -I
+===========================================================================
+um.edu.mt.fits.dsp0.user.UserInfo.whitelist():::EXIT268
+this.status == orig(this.status)  -I
+this.sessions[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserSession, um.edu.mt.fits.dsp0.user.UserSession]  -I
+this.accounts[].getClass().getName() == [um.edu.mt.fits.dsp0.user.UserAccount]  -I
